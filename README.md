@@ -1,5 +1,4 @@
 # USMANOLADEINDE
-Hi there👋 
 ## Hey 👋, This is Usman Oladeinde
 [![Gmail Badge](https://img.shields.io/badge/-usmanoladeinde@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:usmanoladeinde@gmail.com)](mailto:usmanoladeinde@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/oladeindeusman-mfa-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/oladeindeusman-mfa/)](https://www.linkedin.com/in/www.linkedin.com/in/oladeindeusman-mfa/) [![Github Badge](https://img.shields.io/badge/-usmanoladeindeoss-grey?style=flat&logo=github&logoColor=white&link=https://github.com/usmanoladeindeoss/)](https://www.github.com/usmanoladeindeoss/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/usmanoladeinde-oss/USMANOLADEINDE.git/)](https://github.com/usmanoladeinde-oss/USMANOLADEINDE.git/) <p align='left'>## About Me
