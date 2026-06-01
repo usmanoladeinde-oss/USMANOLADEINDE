@@ -25,7 +25,7 @@ I'm currently analyzing Shopify app marketplace data to identify the factors tha
 Land a Business Intelligence or Data Analyst role where I can leverage data to improve processes, support strategic decision-making, and create meaningful business impact.
 
 Feel free to connect with me on LinkedIn, explore my repositories, or reach out to discuss data, analytics, and new opportunities.
-</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1C9FkIVnZGuM75qozPth8I9ruBqXylJnP2owU2sHnAKg/edit?usp=drive_link ' target=_blank><u>here</u>.</a></p>
+</p><p align='left'> You can view my resume <a href='https://[docs.google.com/document/d/1C9FkIVnZGuM75qozPth8I9ruBqXylJnP2owU2sHnAKg/edit?usp=drive_link ](https://docs.google.com/document/d/1gTma8RQihtE8zN11s6s8_4xJlSXAfvuHxpobN9nhGsE/edit?usp=sharing)' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=usmanoladeindeoss alt=usmanoladeindeoss /> </p>
 
