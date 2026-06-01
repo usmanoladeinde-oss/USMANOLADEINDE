@@ -1,6 +1,7 @@
 ## Hey 👋, This is Usman Oladeinde
 [![Gmail Badge](https://img.shields.io/badge/-usmanoladeinde@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:usmanoladeinde@gmail.com)](mailto:usmanoladeinde@gmail.com) 
->Hi, I'm Usman 👋
+
+Hi, I'm Usman 👋
 
 I'm an aspiring Business Intelligence Analyst with experience across 6+ technical projects focused on business analytics, data visualization, customer retention, conversion analysis, and process improvement. My technical toolkit includes SQL, Tableau, Power BI, Excel, and exploratory data analysis (EDA).
 
